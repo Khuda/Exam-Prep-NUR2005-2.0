@@ -1,1 +1,1 @@
-{"routes":[{"path":"/","title":"NUR2005 Exam Prep"}]}
+{"routes":[{"path":"/","title":"NUR2005 Exam Prep"},{"path":"/topics","title":"Topic notes"},{"path":"/practice","title":"MCQ practice"},{"path":"/calculations","title":"Medication calculations"},{"path":"/short-answers","title":"Short answers"},{"path":"/mock-exam","title":"Mock exam"},{"path":"/review","title":"Review queue"}]}

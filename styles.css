@@ -198,3 +198,8 @@ mark { background: #ffe5b9; color: inherit; padding: 0 3px; }
   .progress-row { grid-template-columns: 1fr 75px 34px; gap: 8px; }
   .hero-panel h2 { font-size: 30px; }
 }
+.option-button.selected { border-color: var(--orange); background: #fff8ed; box-shadow: inset 3px 0 var(--orange); }
+.option-button.selected .option-letter { background: var(--orange); color: #173B57; }
+.option-button.selected { border-color: var(--orange); background: #fff8ed; box-shadow: inset 0 0 0 1px rgba(214,140,69,.18); }
+.option-button.selected .option-letter { background: var(--orange); color: var(--navy); }
+.accent { color: var(--teal); }
